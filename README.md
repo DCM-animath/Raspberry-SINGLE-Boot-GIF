@@ -1,6 +1,6 @@
 # 🐍 Raspberry Pi Boot GIF Splash
 
-Tampilkan **GIF animasi saat booting Raspberry Pi** menggunakan `mpv`. Tutorial ini akan memutar file GIF secara fullscreen setelah sistem masuk ke tampilan grafis (GUI). Bisa untuk 1 monitor untuk kebutuhan gif simetris dan 2 monitor untuk gif yang asimetris
+Tampilkan **GIF animasi saat booting Raspberry Pi** menggunakan `mpv`. Tutorial ini akan memutar file GIF secara fullscreen setelah sistem masuk ke tampilan grafis (GUI). Repo ini khusus untuk 2 atau 1 screen 1 gif
 
 ## Instalasi
 
