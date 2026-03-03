@@ -45,7 +45,7 @@ note: tested smoothly in raspi 5, apabila pakai raspi zero 2, tolong sleepnya di
 
 # happy coding pakde
 
-by:andre angin
+
 
 
 
